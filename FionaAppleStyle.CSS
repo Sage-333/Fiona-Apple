@@ -1,0 +1,120 @@
+ 
+ 
+ header{
+    font-family: 'Architects Daughter', cursive;
+}
+.navbar{
+    display:flex;
+    flex-direction: row;
+    font-family: Architects Daughter;
+    justify-content: space-around;
+    padding: 10px;
+    border-style: solid;
+}
+
+.Banner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    font-family: 'Architects Daughter', cursive;
+    background-image:url(/Images/BKG.png);
+    background-position: no-repeat, fixed, center bottom;
+
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Amatic SC', cursive;
+}
+.OVM{
+    display: inline-block;
+}
+    .OV1{
+    display: inline-block;
+    width: 40%;
+    padding-left: 5%;
+    background-color: antiquewhite;
+    margin-bottom: 5%;
+
+    }
+    .FOld{
+    display: inline-block;
+     width: 40%;   
+    padding-top: 10%;
+     padding-right: 5%;
+     padding-left: 5%;
+    }
+.OVS{
+    display: inline-block;
+}
+.SHAD{
+    display: inline-block;
+ width: 40%;   
+ padding-left: 5%;
+
+}
+    .OV2{
+        display: inline-block;
+        width: 40%;
+        margin-left: 5%;    
+        padding: 1%;
+        background-color: antiquewhite;
+    }
+
+.OV3{
+    display: inline-block;
+    width: 40%;
+    padding-left: 5%;
+    background-color: antiquewhite;
+}
+    .IHRT{
+        display: inline-block;
+        width: 40%;   
+       padding-top: 2%;
+        padding-left: 5%;
+    }
+
+
+.ELM{
+display: inline-block;
+}
+    .EL1{
+    display: inline-block;
+    width: 40%;
+    padding-left: 5%;
+    background-color: antiquewhite;
+}
+
+    .BOLT{
+    display: inline-block;
+     width: 49%;   
+    padding-top: 2%;
+     padding-right: 5%;
+}
+
+.EL2{
+    float: left;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: antiquewhite;
+    margin-right: 6%;
+   }
+.ELS{
+    display: inline-block;
+
+    }
+    .CRIM{
+        display: inline-block;
+     width: 35%;   
+     padding-left: 5%;
+
+    }
+    .EL3{
+        display: inline-block;
+        width: 47%;
+        margin-left: 5%;    
+        padding: 1%;
+        background-color: antiquewhite; 
+    }
