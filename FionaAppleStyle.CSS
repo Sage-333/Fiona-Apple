@@ -10,6 +10,7 @@
     justify-content: space-around;
     padding: 10px;
     border-style: solid;
+    color: black;
 }
 
 .Banner{
@@ -76,23 +77,22 @@ h1{
         padding-left: 5%;
     }
 
-
-.ELM{
-display: inline-block;
-}
-    .EL1{
-    display: inline-block;
-    width: 40%;
-    padding-left: 5%;
-    background-color: antiquewhite;
-}
-
-    .BOLT{
-    display: inline-block;
-     width: 49%;   
-    padding-top: 2%;
-     padding-right: 5%;
-}
+    .ELM{
+        display: inline-block;
+        }
+            .EL1{
+            display: inline-block;
+            width: 40%;
+            padding-left: 5%;
+            background-color: antiquewhite;
+        }
+        
+            .BOLT{
+            display: inline-block;
+             width: 49%;   
+            padding-top: 2%;
+             padding-right: 5%;
+        }
 
 .EL2{
     float: left;
@@ -117,4 +117,75 @@ display: inline-block;
         margin-left: 5%;    
         padding: 1%;
         background-color: antiquewhite; 
+    }
+.CAM{
+        display: inline-block;
+        }
+            .CA1{
+            display: inline-block;
+            width: 50%;
+            padding-left: 5%;
+            background-color: antiquewhite;
+            margin-bottom: 10%;
+        }
+        
+            .SHAD{
+            display: inline-block;
+             width: 30%;   
+            padding-top: 2%;
+             padding-right: 5%;
+        } 
+.CAS{
+    display: inline-block;
+}
+        .NinetySix{
+            display: inline-block;
+            width: 35%;   
+            padding-left: 5%;
+            
+        }       
+        .Tidal{
+            padding:5%;
+        }
+        .Crim Cover{
+            padding:5%;
+        }
+        .CA2{
+            display: inline-block;
+            width: 47%;
+            margin-left: 5%;    
+            padding: 1%;
+            background-color: antiquewhite; 
+        }
+       
+        .CA3{
+            display: inline-block;
+            width: 40%;
+            padding-left: 5%;
+            background-color: antiquewhite;
+        }
+        .PAWN{
+            display: inline-block;
+             width: 30%;   
+            padding-left: 5%;
+             padding-right: 5%;
+             padding-bottom: 5%;
+        }
+    .CA4{
+        float: left;
+        padding-left: 5%;
+        padding-right: 5%;
+        background-color: antiquewhite;
+        margin-right: 6%;
+    }
+    table{
+        border: solid black 2px;
+        text-align: center;
+    }
+    .table{
+        padding-left: 25%; 
+        
+    }
+    form{
+        text-align: center;
     }
